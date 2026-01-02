@@ -19,7 +19,7 @@ commonAnnotations:
 # Centralized image management
 images:
   - name: itsbaivab/frontend
-    newTag: v1
+    newTag: v2
   - name: itsbaivab/backend
     newTag: latest
   - name: postgres
